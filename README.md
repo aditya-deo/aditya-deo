@@ -31,6 +31,7 @@ Connect with me if you want to collaborate, or just hang out!
 Psst..! Here's what I do when I'm not being a nerd (Spoiler : Being a different kinda nerd):
 
 Songs that I've written and composed: 
+
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCFFMpXdUWQAt9nU9_xrRMdQ)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/1cMAKo8aqvwNNdoFvUNTGw?si=DZHa6bF6Sp62SjHEIr2xxQ&dl_branch=1)
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/25-a-m)
