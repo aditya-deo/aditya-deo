@@ -28,6 +28,13 @@ Connect with me if you want to collaborate, or just hang out!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-deo-2703/)
 
 
+
+
+
+
+
+
+
 Psst..! Here's what I do when I'm not being a nerd (Spoiler : Being a different kinda nerd):
 
 Songs that I've written and composed: 
