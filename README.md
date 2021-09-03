@@ -19,6 +19,7 @@ I'm familiar with:
 
 
 [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya-deo&count_private=true&show_icons=true&theme=radical)](https://www.linkedin.com/in/aditya-deo-2703/)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-deo&layout=compact&theme=radical)](https://www.linkedin.com/in/aditya-deo-2703/)
 
 
