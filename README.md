@@ -41,7 +41,7 @@ Connect with me if you want to collaborate, or just hang out!
 
 
 
-Psst..! Here's what I do when I'm not being a nerd (Spoiler : Being a different kinda nerd):
+Here's some non-technical stuff I pursue that I think you'd like:
 
 Songs that I've written and composed: 
 
