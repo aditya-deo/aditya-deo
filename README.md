@@ -1,6 +1,6 @@
 ### Hello! I'm [Aditya](https://www.linkedin.com/in/aditya-deo-2703/) 👋
 
-I'm a student, currently majoring in Computer Engineering. I love me a good coding session with epic film scores playing in the background.
+I'm a student at Pimpri Chinchwad College of Engineering, currently majoring in Computer Engineering. 
 
 
 I'm familiar with:
