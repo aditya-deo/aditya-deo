@@ -1,6 +1,6 @@
 ### Hello! I'm [Aditya](https://www.linkedin.com/in/aditya-deo-2703/) 👋
 
-I'm a student at Pimpri Chinchwad College of Engineering, currently majoring in Computer Engineering. 
+I'm a passionate software developer with hands-on experience in ASP.NET MVC, specializing in crafting robust web applications. I'm currently focused on driving innovation in Project Material Management at Emerson EEEC.
 
 
 I'm familiar with:
