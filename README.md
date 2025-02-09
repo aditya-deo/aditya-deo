@@ -28,24 +28,3 @@ Connect with me if you want to collaborate, or just hang out!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-deo-2703/)
 
-
-
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-
-Here's some non-technical stuff I pursue that I think you'd like:
-
-Songs that I've written and composed: 
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCFFMpXdUWQAt9nU9_xrRMdQ)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/1cMAKo8aqvwNNdoFvUNTGw?si=DZHa6bF6Sp62SjHEIr2xxQ&dl_branch=1)
-[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/25-a-m)
-
